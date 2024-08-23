@@ -29,7 +29,11 @@ client_scripts {
     'data/models.lua',
     'data/tattoos.lua',
     'data/zones.lua',
-    'dist/client/**/*.js'}
+    'dist/client/**/*.js',
+    'target/target.lua',
+    'target/qb.lua',
+    'target/ox.lua',
+}
 
 files {
     'build/**',
